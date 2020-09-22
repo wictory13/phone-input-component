@@ -1,11 +1,9 @@
 ## Available Scripts
 
 Перед запуском проекта нужно установить зависимости при помощи команды
-
 ### `npm install`
 
 Запуск проекта
-
 ### `npm start`
 
 Runs the app in the development mode.<br />
